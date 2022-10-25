@@ -1,0 +1,48 @@
+.nav {
+  background-color: white;
+  display: flex;
+  align-items: stretch;
+  height: 4.3rem;
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.myTitle{
+  font-family:cursive
+}
+
+.site-title {
+  font-size: 1.7rem;
+  margin-left: 4rem;
+}
+
+.site-title:hover {
+  color: black;
+}
+
+.nav ul {
+  padding: 0;
+  margin-top: .8rem;
+  margin-left: 7rem;
+  font-size: 1.3rem;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav li.active {
+  color: #0D6EFD;
+}
+
+.nav li:hover {
+  color: #0D6EFD;
+}
+
+.nav a {
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: .25rem;
+}

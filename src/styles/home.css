@@ -1,0 +1,34 @@
+.myHomeImage {
+    height: 600px;
+    width: 80%;
+}
+
+.myDiv{
+    width: 100%;
+    height: 84.4vh;
+    background-image: url(../images/HomePage.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.myShadow{
+    font-family: cursive;
+    text-shadow: 10px 10px 15px #ffffff,
+                -10px 10px 15px #ffffff,
+                -10px -10px 15px #ffffff,
+                10px -10px 15px #ffffff;
+}
+
+.homeContainer {
+    width: 80%;
+    text-align: center;
+    position: absolute;
+    color: #000000;
+    font-size: 4vw;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}

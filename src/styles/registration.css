@@ -1,0 +1,16 @@
+.myError{
+  color: red;
+}
+
+.myLoginPhoto{
+  width: 100%;
+}
+
+input{
+  float: right;
+  width: 16rem !important;
+}
+
+.myContainer{
+  margin: 4.7rem 0 4.7rem 0;
+}
