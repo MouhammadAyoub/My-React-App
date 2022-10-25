@@ -62,21 +62,21 @@ Download the project from github to your desktop:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Screenshots
+## Screenshots</br>
 
-- **_Home Page :_**
+### Home Page :</br>
 
-<img src="assets/images/HomePage.png" /></br>
+</br><img src="assets/images/homePage.png" /></br>
 
-- **_Register Page :_**
+### Register Page :</br>
 
-<img src="assets/images/RegisterPage.png" /></br>
+</br><img src="assets/images/registerPage.png" /></br>
 
-- **_Dashboard Page :_**
+### Dashboard Page :</br>
 
-<img src="assets/images/Dashboard1.png" /></br>
+</br><img src="assets/images/dashboard1.png" /></br></br>
 
-<img src="assets/images/Dashboard2.png" /></br>
+</br><img src="assets/images/dashboard2.png" /></br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
