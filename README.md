@@ -62,59 +62,21 @@ Download the project from github to your desktop:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Usage
+## Screenshots
 
-- **_Exercice 1 :_** &nbsp;The first step you need to do is to use the desktop application in Exercise 1 to `Encrypt The File` you want to send
+- **_Home Page :_**
 
-<img src="assets/images/Exercice1-Welcome.png" /></br>
+<img src="assets/images/HomePage.png" /></br>
 
-**_Note :_** &nbsp;This is the content of the `File` we need to encrypt
+- **_Register Page :_**
 
-<img src="assets/images/Exercice1-Text.png" /></br>
+<img src="assets/images/RegisterPage.png" /></br>
 
-**_Note :_** &nbsp;Once you choose the file to be encrypted, the Save button will become clickable, and by clicking on it you can choose where you want to save the encrypted file
+- **_Dashboard Page :_**
 
-<img src="assets/images/Exercice1-Save.png" /></br>
+<img src="assets/images/Dashboard1.png" /></br>
 
-**_Note :_** &nbsp;This is the content of the file that we saved `After Encrypting It`
-
-<img src="assets/images/Exercice1-Encrypted.png" /></br>
-
-- **_Exercice 2 :_** &nbsp;The Exercise 2 is a Python script whose job is to `Decrypt The File` we just encrypted by receiving two arguments, the first is the path of the file we need to decrypt and the second is the path where we want to save the result, but we can't use it alone because it doesn't have a user interface, so we'll use it in Exercise 5 later
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Python-Script.png" width="550px"/>
-
-- **_Exercice 3 :_** &nbsp;This is our web API which contains API functions that we have to use in other applications, and it is also the intermediate place where the file will be stored between office A and office B
-
-<img src="assets/images/Exercice3-Welcome.png" /></br>
-
-**_Note :_** &nbsp;We have a `GetToken` function which provides strong site security without which authentication cannot succeed, and anyone who doesn't have a username and password or enter wrong values can't get the token
-
-<img src="assets/images/Exercice3-Token.png" /></br>
-
-**_Note :_** &nbsp;We have an `UploadFiles` function that enables us to upload many files and store them in the web app by just giving the paths to these files
-
-<img src="assets/images/Exercice3-Upload.png" /></br>
-
-**_Note :_** &nbsp;We also have a `DownloadFile` function which enables us to download the file from the web application simply by entering its name
-
-<img src="assets/images/Exercice3-Download.png" /></br>
-
-- **_Exercice 4 :_** &nbsp;The function of this desktop application is to `Send The Files` of our choice to the web application for the purpose of storing it
-
-<img src="assets/images/Exercice4-Welcome.png" /></br>
-
-**_Note :_** &nbsp;Once the file is selected (of course we have to choose one of the files that we have already encrypted using the ثxercice 1 application), the `Send Button` will be clickable, and by clicking on it you will be able to send the file to the web application.
-
-<img src="assets/images/Exercice4-Send.png" /></br>
-
-- **_Exercice 5 :_** &nbsp;The function of this application is to allow Office B to `Download Encrypted Files` that Office A has uploaded to the web application
-
-<img src="assets/images/Exercice5-Welcome.png" /></br>
-
-**_Note :_** &nbsp;Once the file name is entered (we did not put a drop down list of the file names on the web application in order to maintain high security, so the user must enter the file name accurately), the `Download Button` will be clickable, and by clicking on it will not only download the file, but also decrypt it by implicitly using the Python script in Exercise 2.
-
-<img src="assets/images/Exercice5-Download.png" /></br>
+<img src="assets/images/Dashboard2.png" /></br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
