@@ -9,7 +9,7 @@
 
 ## Description
 
-test
+This repository contains a Demo Front-end web application built with React Js. Feel free to clone this repo.
 
 ## Installation
 
