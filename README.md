@@ -2,23 +2,14 @@
 
 <img src="assets/images/icon.png" align="right" />
 
-<<<<<<< HEAD
+
 # My-React-App</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/My-React-App)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/My-React-App)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/My-React-App)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/My-React-App)
-=======
-# My-React-App</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/Arduino-Sumo-Robot)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/Arduino-Sumo-Robot)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/Arduino-Sumo-Robot)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/Arduino-Sumo-Robot)
->>>>>>> 3eff33846206e391fdb05c82ff26ebe40c4c22e6
 
 > Welcome aboard fellow developer, this is where you will find projects which you are free to contribute to. You can contribute by submitting your own scripts, which you think would be amazing for other people to see.
 
 ## Description
 
-It is a set of 5 programs used together to send a file from office A to office B very securely
-
-- **Part 1 :** &nbsp;Desktop application built with **_WPF_** that takes file as input, encrypt the file, encode to base64, and write the output to txt file
-- **Part 2 :** &nbsp;Script written in **_Python_** that decrypts the file created in (Part 1) written in **_C#_**, and writes the output to a new file. (Decrypting a file using a language different from the language used in the encryption is to gain more experience)
-- **Part 3 :** &nbsp;Web application built with **_ASP.NET core_** that receive files from client A using API, save them, and provide to client B when asked for. It have authentication to prevent others from upload or download and record every file upload and download to a database table
-- **Part 4 :** &nbsp;Desktop application built with **_WPF_** that take file as input and send the file to web app (Part 3)
-- **Part 5 :** &nbsp;Desktop application built with **_WPF_** (runnable on program of Part 2) that download files from the web application (Part 3)
+test
 
 ## Installation
 
@@ -67,71 +58,7 @@ Download the project from github to your desktop:
 
 - **Steps you must do to make the system work properly** :
 
-  - **Exercice 1 :** &nbsp;Nothing</br>
-
-  - **Exercice 2 :**
-
-    1. Before you install PIP on Windows, check if PIP is already installed:
-
-       - Type **_cmd_** in the Windows search bar and click the `Command Prompt` icon
-       - Type in the following command at the command prompt
-
-         ```shell
-         pip help
-         ```
-
-       - If PIP responds, then PIP is installed. Otherwise, there will be an error saying the program could not be found
-
-    2. Before installing PIP, download the get-pip.py file:
-
-       - Type **_cmd_** in the Windows search bar and click the `Command Prompt` icon
-       - Run the following command to download the get-pip.py file
-
-         ```shell
-         curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-         ```
-
-    3. Installing PIP on Windows:
-
-       - To install PIP type in the following
-
-         ```shell
-         python get-pip.py
-         ```
-
-    4. Download Pakages:
-
-       - To install `Crypto` library using PIP type in the following in the **_cmd_**
-
-         ```shell
-         pip install pycryptodome
-         ```
-
-  - **Exercice 3 :**
-
-    1. Launch **_MySQL Workbench_** and create a database with the following specifications
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/Database-Table.png" width="700px"/>
-
-    2. Change the **_server_**, **_database_**, **_user_** and **_password_** values of the **_MySqlConnection_** function in the `Program.cs` file
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/MySQL-Connection.png" width="700px"/>
-
-    3. Correct all paths to folders in the `Program.cs` file
-
-  - **Exercice 4 :** &nbsp;
-
-    1. Replace the current localhost in **_HttpWebRequest_** by your localhost in the `MainWindow.xaml.cs` file
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/My-Localhost.png" width="700px"/>
-
-  - **Exercice 5 :** &nbsp;
-
-    1. Replace the current localhost in **_HttpWebRequest_** by your localhost in the `MainWindow.xaml.cs` file
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/images/My-Localhost.png" width="700px"/>
-
-    2. Correct all paths to folders in the `MainWindow.xaml.cs` file
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
