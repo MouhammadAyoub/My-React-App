@@ -2,7 +2,7 @@
 
 <img src="assets/images/icon.png" align="right" />
 
-# Arduino-Sumo-Robot</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/Arduino-Sumo-Robot)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/Arduino-Sumo-Robot)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/Arduino-Sumo-Robot)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/Arduino-Sumo-Robot)
+# My-React-App</br>![Issues](https://img.shields.io/github/issues/MouhammadAyoub/My-React-App)&nbsp;![Stars](https://img.shields.io/github/stars/MouhammadAyoub/My-React-App)&nbsp;![Contributors](https://img.shields.io/github/contributors/MouhammadAyoub/My-React-App)&nbsp;![Forks](https://img.shields.io/github/forks/MouhammadAyoub/My-React-App)
 
 > Welcome aboard fellow developer, this is where you will find projects which you are free to contribute to. You can contribute by submitting your own scripts, which you think would be amazing for other people to see.
 
@@ -34,10 +34,10 @@ Download the project from github to your desktop:
   **4.** Once you have navigated to the directory where you want to put your repository, you can use
 
   ```shell
-  git clone https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System.git
+  git clone https://github.com/MouhammadAyoub/My-React-App.git
   ```
 
-  **5.** When you run `git clone https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System.git`, You should see output like
+  **5.** When you run `git clone https://github.com/MouhammadAyoub/My-React-App.git`, You should see output like
 
   ```shell
   Cloning into 'test-repo'...
@@ -189,7 +189,7 @@ Download the project from github to your desktop:
 
 ## Contribution Guidelines
 
-The contribution guidelines are as per the guide [HERE](https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System/blob/main/CONTRIBUTING.md).
+The contribution guidelines are as per the guide [HERE](https://github.com/MouhammadAyoub/My-React-App/blob/main/CONTRIBUTING.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,7 +208,7 @@ The contribution guidelines are as per the guide [HERE](https://github.com/Mouha
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System/blob/main/LICENSE) for more information.  
+Distributed under the MIT License. See [`LICENSE`](https://github.com/MouhammadAyoub/My-React-App/blob/main/LICENSE) for more information.  
 Copyright © 2022, Mohammad Ayoub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -217,7 +217,7 @@ Copyright © 2022, Mohammad Ayoub
 
 - Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;[mouhammad.ayoub@outlook.com](mailto:mouhammad.ayoub@outlook.com)
 
-- Project Link : &nbsp;[https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System](https://github.com/MouhammadAyoub/Encrypted-File-Sharing-System)
+- Project Link : &nbsp;[https://github.com/MouhammadAyoub/My-React-App](https://github.com/MouhammadAyoub/My-React-App)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
