@@ -1,6 +1,6 @@
 # Contributing to My-React-App
 
-Thanks for your interest in .Net core and Python. Our goal is to bring fast, reliable, and trouble-free open-source projects to all communities. We love your input! We want to make every contribution to this project as transparent and effortless as possible. Please note that we have a code of conduct that we need to follow moving forward in all your interactions with the project.
+Thanks for your interest in React Js. Our goal is to bring fast, reliable, and trouble-free open-source projects to all communities. We love your input! We want to make every contribution to this project as transparent and effortless as possible. Please note that we have a code of conduct that we need to follow moving forward in all your interactions with the project.
 
 - Reporting a bug
 - Discussing the current state of the code
