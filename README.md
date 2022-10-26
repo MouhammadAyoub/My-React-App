@@ -56,10 +56,6 @@ Download the project from github to your desktop:
 
   **3.** Unzip it, this will create a folder named after the GitHub repository</br></br>
 
-- **Steps you must do to make the system work properly** :
-
-  
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Screenshots</br>
