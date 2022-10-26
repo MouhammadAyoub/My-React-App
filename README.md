@@ -9,7 +9,7 @@
 
 ## Description
 
-This repository contains a Demo Front-end web application built with React Js. Feel free to clone this repo.
+Demo Front-end web application using React which is a Javascript library created by Facebook to build UI components  built with React Js. It has a registration page for creating new accounts with each entry validated. It also has a dashboard page that contains all products (received from an API) and shows all their details in the container.
 
 ## Installation
 
